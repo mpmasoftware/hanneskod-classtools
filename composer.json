@@ -1,5 +1,5 @@
 {
-    "name": "hanneskod/classtools",
+    "name": "mpmasoftware/hanneskod-classtools",
     "description": "Find, extract and process classes from file system",
     "keywords": ["class finder", "metaprogramming", "code generator", "minimizer"],
     "homepage": "https://github.com/hanneskod/classtools",
